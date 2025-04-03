@@ -7,8 +7,8 @@ public class EasyLevelDBConnection {
     public static void main(String[] args) {
         // JDBC URL, username, and password of MySQL server
         String url = "jdbc:mysql://localhost:3306/company";
-        String user = "root";
-        String password = "password";
+        String user = "Chinmay";
+        String password = "Sql@123";
         
         // SQL query to fetch data from Employee table
         String query = "SELECT EmpID, Name, Salary FROM Employee";
